@@ -11,8 +11,8 @@ This project is a faithful PyTorch implementation of [NeRF](http://www.matthewta
 ## Installation
 
 ```
-git clone https://github.com/yenchenlin/nerf-pytorch.git
-cd nerf-pytorch
+git clone https://github.com/1364301688/nerf-shortened.git
+cd nerf-shortened
 pip install -r requirements.txt
 ```
 
